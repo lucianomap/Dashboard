@@ -14,7 +14,7 @@ df = df.sort_values("Date")
 
 # Views by YYYY-MM
 df["Month"] = df["Date"].apply(lambda x: str(x.year) + "-" + str(x.month))
-month = st.sidebar.selectbox("Mês", df["Month"].unique())
+month = st.sidebar.selectbox("Month", df["Month"].unique())
 df_filtered = df[df["Month"] == month]
 
 #Plot placement
