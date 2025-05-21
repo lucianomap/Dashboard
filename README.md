@@ -28,7 +28,7 @@ The dashboard uses the `supermarket_sales.csv` file as an example to run the scr
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/lucianomap/supermarket-sales-dashboard.git
+    git clone https://github.com/lucianomap/dashboard-for-supermarket-sales.git
     cd supermarket-sales-dashboard
     ```
 
