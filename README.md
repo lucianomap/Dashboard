@@ -3,6 +3,8 @@
 This is an interactive dashboard built with [Streamlit](https://streamlit.io/) for visualizing supermarket sales data.  
 It uses **pandas** for data manipulation and **plotly** for rich, interactive visualizations.
 
+![alt text](https://github.com/lucianomap/dashboard-for-supermarket-sales/blob/0fde4e9b9a641b2eaa5e68fac59627522b4bce55/images/example.png)
+
 ---
 
 ## 🚀 Demo
